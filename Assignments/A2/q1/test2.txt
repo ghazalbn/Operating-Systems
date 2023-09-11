@@ -1,0 +1,5 @@
+assignments
+books
+quizes
+slides
+videos

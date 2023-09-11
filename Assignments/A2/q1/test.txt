@@ -1,0 +1,4 @@
+Makefile
+redirect
+redirect.c
+test.txt
